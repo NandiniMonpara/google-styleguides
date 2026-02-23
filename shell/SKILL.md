@@ -1,5 +1,5 @@
 ---
-name: google-shell
+name: shell
 description: Google's official Shell scripting style guide. Covers Bash scripting, naming conventions, error handling, portability, and shell best practices.
 ---
 
@@ -60,6 +60,12 @@ main "$@"
 - Setting up ShellCheck
 - Onboarding new team members
 
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/shell
+```
+
 ## Full Guide
 
-See [shell.md](shell.md) for complete details (coming soon).
+See [shell.md](shell.md) for complete details, examples, and edge cases.

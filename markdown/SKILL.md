@@ -1,5 +1,5 @@
 ---
-name: google-markdown
+name: markdown
 description: Google's official Markdown style guide. Covers formatting, structure, links, lists, and Markdown best practices for documentation.
 ---
 
@@ -68,6 +68,12 @@ def hello():
 - Code reviews
 - Onboarding new team members
 
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/markdown
+```
+
 ## Full Guide
 
-See [markdown.md](markdown.md) for complete details (coming soon).
+See [markdown.md](markdown.md) for complete details, examples, and edge cases.

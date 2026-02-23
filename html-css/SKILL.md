@@ -1,5 +1,5 @@
 ---
-name: google-html-css
+name: html-css
 description: Google's official HTML/CSS style guide. Covers formatting, naming, semantics, accessibility, and best practices for web markup and styling.
 ---
 
@@ -60,6 +60,12 @@ description: Google's official HTML/CSS style guide. Covers formatting, naming, 
 - Setting up linting rules
 - Onboarding new team members
 
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/html-css
+```
+
 ## Full Guide
 
-See [html-css.md](html-css.md) for complete details (coming soon).
+See [html-css.md](html-css.md) for complete details, examples, and edge cases.

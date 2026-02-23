@@ -1,5 +1,5 @@
 ---
-name: google-r
+name: r
 description: Google's official R style guide. Covers naming conventions, formatting, functions, documentation, and R best practices for data analysis.
 ---
 
@@ -49,6 +49,12 @@ calculate_user_stats <- function(users, min_age = 18) {
 - Code reviews
 - Onboarding new team members
 
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/r
+```
+
 ## Full Guide
 
-See [r.md](r.md) for complete details (coming soon).
+See [r.md](r.md) for complete details, examples, and edge cases.

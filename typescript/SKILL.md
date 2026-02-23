@@ -1,5 +1,5 @@
 ---
-name: google-typescript
+name: typescript
 description: Google's official TypeScript style guide. Covers strict mode, type annotations, interfaces vs types, null handling, naming conventions, imports, and common mistakes. Enforces explicit return types, readonly properties, and avoidance of any/non-null assertions.
 ---
 
@@ -138,6 +138,12 @@ import * as everything from './module';
 - Code reviews
 - Setting up linting rules
 - Onboarding new team members
+
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/typescript
+```
 
 ## Full Guide
 

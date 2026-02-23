@@ -1,5 +1,5 @@
 ---
-name: google-javascript
+name: javascript
 description: Google's official JavaScript style guide for ES6+. Covers const/let, arrow functions, template literals, destructuring, modules, naming conventions, JSDoc, and formatting. Enforces modern JavaScript patterns and best practices.
 ---
 
@@ -173,6 +173,12 @@ try {
 - Code reviews
 - Setting up ESLint rules
 - Onboarding new team members
+
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/javascript
+```
 
 ## Full Guide
 

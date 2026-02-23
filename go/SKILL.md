@@ -1,5 +1,5 @@
 ---
-name: google-go
+name: go
 description: Google's official Go style guide. Covers gofmt formatting, naming conventions, error handling, interfaces, concurrency patterns, and package organization. Enforces idiomatic Go code with short variable names and explicit error checks.
 ---
 
@@ -165,6 +165,12 @@ import (
 - Code reviews
 - Setting up linting rules (golangci-lint)
 - Onboarding new team members
+
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/go
+```
 
 ## Full Guide
 

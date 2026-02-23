@@ -1,5 +1,5 @@
 ---
-name: google-java
+name: java
 description: Google's official Java style guide. Covers 2-space indentation, 100-char line limit, naming conventions, braces, imports, Javadoc, exception handling, lambdas, and streams. Enforces @Override annotations and specific imports.
 ---
 
@@ -144,6 +144,12 @@ import java.util.*;  // no wildcard imports
 - Code reviews
 - Setting up Checkstyle rules
 - Onboarding new team members
+
+## Install
+
+```bash
+npx skills add testdino-hq/google-styleguides/java
+```
 
 ## Full Guide
 
