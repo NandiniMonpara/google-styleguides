@@ -1,4 +1,4 @@
-# Google Style Guides for AI Coding Agents
+# Google Style Guides Skill for AI Coding Agents
 
 <div align="center">
   <p>Official Google style guides packaged as AI coding agent skills.</p>
@@ -60,7 +60,7 @@ The `skills` CLI copies style guide content into your project so AI coding agent
 ### Install All Style Guides
 
 ```bash
-npx skills add testdino-hq/google-styleguides
+npx skills add testdino-hq/goolge-styleguides-skills
 ```
 
 ### Install Individual Style Guides
@@ -69,29 +69,29 @@ Pick only the languages you need:
 
 ```bash
 # Frontend
-npx skills add testdino-hq/google-styleguides/typescript
-npx skills add testdino-hq/google-styleguides/javascript
-npx skills add testdino-hq/google-styleguides/html-css
-npx skills add testdino-hq/google-styleguides/angularjs
+npx skills add testdino-hq/goolge-styleguides-skills/typescript
+npx skills add testdino-hq/goolge-styleguides-skills/javascript
+npx skills add testdino-hq/goolge-styleguides-skills/html-css
+npx skills add testdino-hq/goolge-styleguides-skills/angularjs
 
 # Backend
-npx skills add testdino-hq/google-styleguides/python
-npx skills add testdino-hq/google-styleguides/java
-npx skills add testdino-hq/google-styleguides/go
-npx skills add testdino-hq/google-styleguides/cpp
-npx skills add testdino-hq/google-styleguides/csharp
+npx skills add testdino-hq/goolge-styleguides-skills/python
+npx skills add testdino-hq/goolge-styleguides-skills/java
+npx skills add testdino-hq/goolge-styleguides-skills/go
+npx skills add testdino-hq/goolge-styleguides-skills/cpp
+npx skills add testdino-hq/goolge-styleguides-skills/csharp
 
 # Mobile
-npx skills add testdino-hq/google-styleguides/swift
-npx skills add testdino-hq/google-styleguides/objective-c
+npx skills add testdino-hq/goolge-styleguides-skills/swift
+npx skills add testdino-hq/goolge-styleguides-skills/objective-c
 
 # Other
-npx skills add testdino-hq/google-styleguides/shell
-npx skills add testdino-hq/google-styleguides/r
-npx skills add testdino-hq/google-styleguides/common-lisp
-npx skills add testdino-hq/google-styleguides/vim-script
-npx skills add testdino-hq/google-styleguides/json
-npx skills add testdino-hq/google-styleguides/markdown
+npx skills add testdino-hq/goolge-styleguides-skills/shell
+npx skills add testdino-hq/goolge-styleguides-skills/r
+npx skills add testdino-hq/goolge-styleguides-skills/common-lisp
+npx skills add testdino-hq/goolge-styleguides-skills/vim-script
+npx skills add testdino-hq/goolge-styleguides-skills/json
+npx skills add testdino-hq/goolge-styleguides-skills/markdown
 ```
 
 ---
@@ -100,23 +100,23 @@ npx skills add testdino-hq/google-styleguides/markdown
 
 | Language | Command | What's Covered |
 | --- | --- | --- |
-| **TypeScript** | `npx skills add testdino-hq/google-styleguides/typescript` | Types, interfaces, naming, null handling, enums, imports |
-| **JavaScript** | `npx skills add testdino-hq/google-styleguides/javascript` | ES6+, modules, naming, formatting, JSDoc |
-| **Python** | `npx skills add testdino-hq/google-styleguides/python` | PEP 8, type hints, docstrings, imports, comprehensions |
-| **Java** | `npx skills add testdino-hq/google-styleguides/java` | Naming, formatting, Javadoc, exceptions, best practices |
-| **C++** | `npx skills add testdino-hq/google-styleguides/cpp` | Headers, naming, formatting, classes, memory management |
-| **Go** | `npx skills add testdino-hq/google-styleguides/go` | Formatting, naming, comments, error handling, concurrency |
-| **Swift** | `npx skills add testdino-hq/google-styleguides/swift` | Naming, optionals, protocols, error handling, formatting |
-| **Objective-C** | `npx skills add testdino-hq/google-styleguides/objective-c` | Naming, formatting, memory management, protocols |
-| **C#** | `npx skills add testdino-hq/google-styleguides/csharp` | Naming, formatting, LINQ, async/await, XML docs |
-| **HTML/CSS** | `npx skills add testdino-hq/google-styleguides/html-css` | Formatting, naming, semantics, accessibility |
-| **AngularJS** | `npx skills add testdino-hq/google-styleguides/angularjs` | Controllers, services, directives, modules |
-| **Shell** | `npx skills add testdino-hq/google-styleguides/shell` | Bash scripting, naming, error handling, portability |
-| **R** | `npx skills add testdino-hq/google-styleguides/r` | Naming, formatting, functions, documentation |
-| **Common Lisp** | `npx skills add testdino-hq/google-styleguides/common-lisp` | Naming, formatting, macros, documentation |
-| **Vim Script** | `npx skills add testdino-hq/google-styleguides/vim-script` | Plugin structure, naming, portability |
-| **JSON** | `npx skills add testdino-hq/google-styleguides/json` | Formatting, naming, structure, comments |
-| **Markdown** | `npx skills add testdino-hq/google-styleguides/markdown` | Formatting, structure, links, lists |
+| **TypeScript** | `npx skills add testdino-hq/goolge-styleguides-skills/typescript` | Types, interfaces, naming, null handling, enums, imports |
+| **JavaScript** | `npx skills add testdino-hq/goolge-styleguides-skills/javascript` | ES6+, modules, naming, formatting, JSDoc |
+| **Python** | `npx skills add testdino-hq/goolge-styleguides-skills/python` | PEP 8, type hints, docstrings, imports, comprehensions |
+| **Java** | `npx skills add testdino-hq/goolge-styleguides-skills/java` | Naming, formatting, Javadoc, exceptions, best practices |
+| **C++** | `npx skills add testdino-hq/goolge-styleguides-skills/cpp` | Headers, naming, formatting, classes, memory management |
+| **Go** | `npx skills add testdino-hq/goolge-styleguides-skills/go` | Formatting, naming, comments, error handling, concurrency |
+| **Swift** | `npx skills add testdino-hq/goolge-styleguides-skills/swift` | Naming, optionals, protocols, error handling, formatting |
+| **Objective-C** | `npx skills add testdino-hq/goolge-styleguides-skills/objective-c` | Naming, formatting, memory management, protocols |
+| **C#** | `npx skills add testdino-hq/goolge-styleguides-skills/csharp` | Naming, formatting, LINQ, async/await, XML docs |
+| **HTML/CSS** | `npx skills add testdino-hq/goolge-styleguides-skills/html-css` | Formatting, naming, semantics, accessibility |
+| **AngularJS** | `npx skills add testdino-hq/goolge-styleguides-skills/angularjs` | Controllers, services, directives, modules |
+| **Shell** | `npx skills add testdino-hq/goolge-styleguides-skills/shell` | Bash scripting, naming, error handling, portability |
+| **R** | `npx skills add testdino-hq/goolge-styleguides-skills/r` | Naming, formatting, functions, documentation |
+| **Common Lisp** | `npx skills add testdino-hq/goolge-styleguides-skills/common-lisp` | Naming, formatting, macros, documentation |
+| **Vim Script** | `npx skills add testdino-hq/goolge-styleguides-skills/vim-script` | Plugin structure, naming, portability |
+| **JSON** | `npx skills add testdino-hq/goolge-styleguides-skills/json` | Formatting, naming, structure, comments |
+| **Markdown** | `npx skills add testdino-hq/goolge-styleguides-skills/markdown` | Formatting, structure, links, lists |
 
 ---
 
@@ -148,7 +148,7 @@ function getUser(id) {
 }
 ```
 
-After installing `testdino-hq/google-styleguides/typescript`:
+After installing `testdino-hq/goolge-styleguides-skills/typescript`:
 
 ```typescript
 // AI-generated code following Google TypeScript style

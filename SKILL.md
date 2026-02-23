@@ -1,5 +1,5 @@
 ---
-name: google-styleguides
+name: goolge-styleguides-skills
 description: Complete collection of Google's official style guides for 17 languages. Includes TypeScript, JavaScript, Python, Java, Go, C++, C#, Swift, Objective-C, HTML/CSS, AngularJS, Shell, R, Common Lisp, Vim Script, JSON, and Markdown. Production-ready coding standards used across Google's engineering organization, formatted for AI agent consumption.
 ---
 
@@ -40,35 +40,35 @@ This skill pack includes all 17 official Google style guides from https://google
 
 ### Install Everything (This Skill)
 ```bash
-npx skills add testdino-hq/google-styleguides
+npx skills add testdino-hq/goolge-styleguides-skills
 ```
 
 ### Install Individual Languages
 ```bash
 # Frontend
-npx skills add testdino-hq/google-styleguides/typescript
-npx skills add testdino-hq/google-styleguides/javascript
-npx skills add testdino-hq/google-styleguides/html-css
-npx skills add testdino-hq/google-styleguides/angularjs
+npx skills add testdino-hq/goolge-styleguides-skills/typescript
+npx skills add testdino-hq/goolge-styleguides-skills/javascript
+npx skills add testdino-hq/goolge-styleguides-skills/html-css
+npx skills add testdino-hq/goolge-styleguides-skills/angularjs
 
 # Backend
-npx skills add testdino-hq/google-styleguides/python
-npx skills add testdino-hq/google-styleguides/java
-npx skills add testdino-hq/google-styleguides/go
-npx skills add testdino-hq/google-styleguides/cpp
-npx skills add testdino-hq/google-styleguides/csharp
+npx skills add testdino-hq/goolge-styleguides-skills/python
+npx skills add testdino-hq/goolge-styleguides-skills/java
+npx skills add testdino-hq/goolge-styleguides-skills/go
+npx skills add testdino-hq/goolge-styleguides-skills/cpp
+npx skills add testdino-hq/goolge-styleguides-skills/csharp
 
 # Mobile
-npx skills add testdino-hq/google-styleguides/swift
-npx skills add testdino-hq/google-styleguides/objective-c
+npx skills add testdino-hq/goolge-styleguides-skills/swift
+npx skills add testdino-hq/goolge-styleguides-skills/objective-c
 
 # Other
-npx skills add testdino-hq/google-styleguides/shell
-npx skills add testdino-hq/google-styleguides/r
-npx skills add testdino-hq/google-styleguides/common-lisp
-npx skills add testdino-hq/google-styleguides/vim-script
-npx skills add testdino-hq/google-styleguides/json
-npx skills add testdino-hq/google-styleguides/markdown
+npx skills add testdino-hq/goolge-styleguides-skills/shell
+npx skills add testdino-hq/goolge-styleguides-skills/r
+npx skills add testdino-hq/goolge-styleguides-skills/common-lisp
+npx skills add testdino-hq/goolge-styleguides-skills/vim-script
+npx skills add testdino-hq/goolge-styleguides-skills/json
+npx skills add testdino-hq/goolge-styleguides-skills/markdown
 ```
 
 ## Golden Rules Across All Languages
