@@ -209,7 +209,7 @@ let l:message = 'Hello, ' . l:name . '!'
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/vim-script
+npx skills add testdino-hq/google-styleguides-skills/vim-script
 ```
 
 ## Full Guide

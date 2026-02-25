@@ -165,7 +165,7 @@ public class UserService
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/csharp
+npx skills add testdino-hq/google-styleguides-skills/csharp
 ```
 
 ## Full Guide

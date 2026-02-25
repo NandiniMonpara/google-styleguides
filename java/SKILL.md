@@ -148,7 +148,7 @@ import java.util.*;  // no wildcard imports
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/java
+npx skills add testdino-hq/google-styleguides-skills/java
 ```
 
 ## Full Guide

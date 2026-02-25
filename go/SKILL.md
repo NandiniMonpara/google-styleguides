@@ -169,7 +169,7 @@ import (
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/go
+npx skills add testdino-hq/google-styleguides-skills/go
 ```
 
 ## Full Guide

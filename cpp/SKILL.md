@@ -159,7 +159,7 @@ const std::string& str;
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/cpp
+npx skills add testdino-hq/google-styleguides-skills/cpp
 ```
 
 ## Full Guide

@@ -142,7 +142,7 @@ import * as everything from './module';
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/typescript
+npx skills add testdino-hq/google-styleguides-skills/typescript
 ```
 
 ## Full Guide

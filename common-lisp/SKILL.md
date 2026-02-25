@@ -181,7 +181,7 @@ Ensures the connection is closed on exit."
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/common-lisp
+npx skills add testdino-hq/google-styleguides-skills/common-lisp
 ```
 
 ## Full Guide

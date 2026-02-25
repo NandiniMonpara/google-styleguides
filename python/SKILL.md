@@ -161,7 +161,7 @@ def add_item(item: str, items: Optional[List[str]] = None) -> List[str]:
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/python
+npx skills add testdino-hq/google-styleguides-skills/python
 ```
 
 ## Full Guide

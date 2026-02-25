@@ -58,7 +58,7 @@ description: Google's official JSON style guide. Covers formatting, naming conve
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/json
+npx skills add testdino-hq/google-styleguides-skills/json
 ```
 
 ## Full Guide

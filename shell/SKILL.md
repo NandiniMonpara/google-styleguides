@@ -63,7 +63,7 @@ main "$@"
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/shell
+npx skills add testdino-hq/google-styleguides-skills/shell
 ```
 
 ## Full Guide

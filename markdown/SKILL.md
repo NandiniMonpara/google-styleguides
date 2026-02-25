@@ -71,7 +71,7 @@ def hello():
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/markdown
+npx skills add testdino-hq/google-styleguides-skills/markdown
 ```
 
 ## Full Guide

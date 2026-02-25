@@ -177,7 +177,7 @@ try {
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/javascript
+npx skills add testdino-hq/google-styleguides-skills/javascript
 ```
 
 ## Full Guide

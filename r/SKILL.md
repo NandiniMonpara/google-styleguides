@@ -52,7 +52,7 @@ calculate_user_stats <- function(users, min_age = 18) {
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/r
+npx skills add testdino-hq/google-styleguides-skills/r
 ```
 
 ## Full Guide

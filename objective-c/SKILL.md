@@ -178,7 +178,7 @@ NS_ASSUME_NONNULL_END
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/objective-c
+npx skills add testdino-hq/google-styleguides-skills/objective-c
 ```
 
 ## Full Guide

@@ -224,7 +224,7 @@ func process() {
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/swift
+npx skills add testdino-hq/google-styleguides-skills/swift
 ```
 
 ## Full Guide

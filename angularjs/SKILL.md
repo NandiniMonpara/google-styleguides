@@ -187,7 +187,7 @@ angular.module('myApp', []).controller(...).service(...).directive(...);
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/angularjs
+npx skills add testdino-hq/google-styleguides-skills/angularjs
 ```
 
 ## Full Guide

@@ -102,10 +102,9 @@ When you install this skill:
 
 ## License
 
-The style guides in this project are licensed under the [CC-By 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+This project is licensed under the [MIT License](LICENSE).
 
-Original content: Copyright Google Inc.  
-Skill packaging: Copyright TestDino
+Copyright (c) 2026 TestDino
 
 ## Source
 

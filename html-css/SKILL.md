@@ -63,7 +63,7 @@ description: Google's official HTML/CSS style guide. Covers formatting, naming, 
 ## Install
 
 ```bash
-npx skills add testdino-hq/google-styleguides/html-css
+npx skills add testdino-hq/google-styleguides-skills/html-css
 ```
 
 ## Full Guide

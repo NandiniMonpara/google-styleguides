@@ -216,10 +216,9 @@ With few exceptions, these style guides are copies of Google's internal style gu
 
 ## License
 
-The style guides in this project are licensed under the [CC-By 3.0 License](https://creativecommons.org/licenses/by/3.0/), which encourages you to share these documents.
+This project is licensed under the [MIT License](LICENSE).
 
-Original content: Copyright Google Inc.  
-Skill packaging and formatting: Copyright TestDino
+Copyright (c) 2026 TestDino
 
 See [LICENSE](LICENSE) for full details.
 
